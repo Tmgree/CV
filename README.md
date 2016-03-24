@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# playing-with-git
-# Octocat
-=======
-
 
 ## Tom Green
 
