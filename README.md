@@ -62,6 +62,3 @@ I am a sporty and competitive person with a passion to achieve. My favourite spo
 | Languages | Databases / ORM | Frameworks  | Testing | Others
 |---|---|---|---|---|
 | Ruby, Python, SQL, PHP, R, Matlab, Maplesoft, Mathematica, Javascript & JQuery, HTML5, CSS3 | PostgreSQL, MySQL, ActiveRecord, DataMapper, SQLAlchemy | AngularJS, Ruby on Rails, Bootstrap, Sinatra, Flask | RSpec, Jasmine, Capybara, Karma, Protractor, Python unittest | git (Github), Heroku, AWS, Travis
-
-
->>>>>>> 773fc6fd08e8a2cc7c99a41071949cc3074298bd
